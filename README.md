@@ -2,4 +2,4 @@
 <p></p>
 <p align=center> i like to create fun things.. and learn. i really like to learn.
 <p align=center> ═══════════════════════════════════ </p>
-<p align=center> <img src="https://64.media.tumblr.com/3a0dc19fa5150e2f7e63353fad6e5e76/479294ab3aa4c825-0a/s100x200/232ad7ca1517cbefee5469da872a6b548c1b9431.gifv" alt="a stamp of minori hanasato that fades nito a seal"> </p>
+<p align=center> <img src="https://64.media.tumblr.com/9f8ff52dbae355d0ea4a3757462bd9c7/2d531a6afa488350-bf/s250x400/06409438c808ffa4bafbd81d017ce43c85ab71ca.gifv" width="107" alt="a stamp of an orca"> <img src="https://64.media.tumblr.com/08e32fefe4e70bf90750e9ebb184b7b6/f0cd2b4d8a12ad73-d3/s100x200/5daaa5fccb240516a933073f9dfa5ab4c41fad48.gifv" alt="a stamp of various jellyfish swimming"> </p>
