@@ -1,4 +1,6 @@
- </p> <p align=center> <img src=https://komarev.com/ghpvc/?username=seizedcrown&color=8ca374&style=flat-square&label=🍀> </p>
+
+<p align=center>  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Cossette+Titre&size=18&duration=4000&pause=600&color=4056B9&center=true&vCenter=true&width=500&lines=these+fresh+new+places+i'm;wasting+away+on+old+things" alt="Typing SVG" /></a> </p>
+ </p> <p align=center> <img src=https://komarev.com/ghpvc/?username=seizedcrown&color=5f718c&style=flat-square&label=🦈> </p>
 <p></p>
 <p align=center> i like to create fun things.. and learn. i really like to learn.
 <p align=center> ═══════════════════════════════════ </p>
