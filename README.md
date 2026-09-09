@@ -1,4 +1,4 @@
-<p align=center> <img src="https://file.garden/ZlS7CzBYblwbIgQe/blur_edges.png" alt="art of minori hanasato">  </p> <p align=center> <img src=https://komarev.com/ghpvc/?username=seizedcrown&color=8ca374&style=flat-square&label=🍀> </p>
+ </p> <p align=center> <img src=https://komarev.com/ghpvc/?username=seizedcrown&color=8ca374&style=flat-square&label=🍀> </p>
 <p></p>
 <p align=center> 
 <p align=center> ═══════════════════════════════════ </p>
